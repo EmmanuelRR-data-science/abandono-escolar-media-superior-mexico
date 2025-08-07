@@ -61,6 +61,6 @@ Las decisiones tomadas incluyeron:
    ```bash
    git clone https://github.com/tu-usuario/abandono-escolar-media-superior.git
 
-2. Abre el archivo analisis_abandono.ipynb en Google Colab y carga el dataset
+2. Abre el archivo notebook.ipynb en Google Colab y carga el dataset
 
 3. Ejecuta las celdas para reproducir los resultados.
