@@ -24,3 +24,39 @@ Responder a las siguientes preguntas clave:
 
 ---
 
+## 🛠️ Tecnologías utilizadas
+
+- Python 3.10
+- Pandas
+- Seaborn
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📝 Descripción General del Reto
+
+El reto consistió en analizar datos del sistema educativo nacional para detectar los factores que inciden en el abandono escolar. Durante el proceso se limpiaron más de 20,000 registros, se identificaron inconsistencias en tasas fuera de rango, y se calculó la tasa de abandono por entidad federativa, sexo y tipo de plantel.
+
+Las decisiones tomadas incluyeron:
+
+- Eliminar filas con egresados mayores a alumnos
+- Calcular la tasa de abandono como: `1 - (egresados / alumnos)`
+- Mapear entidades con nombres legibles
+- Generar visualizaciones comparativas y top rankings
+
+---
+
+## 📌 Principales hallazgos
+
+- **Estados con mayor abandono**: Tlaxcala (78.8%), Baja California Sur (77.7%), Baja California (77.0%)
+- **Diferencia de género**: Las mujeres presentan una tasa promedio de abandono ligeramente superior a los hombres
+- **Tipo de plantel**: Planteles con ciertos tipos de gestión muestran mayor tasa de abandono
+
+---
+
+## 🚀 Cómo ejecutar el análisis
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/abandono-escolar-media-superior.git
