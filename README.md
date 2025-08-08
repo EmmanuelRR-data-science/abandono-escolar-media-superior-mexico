@@ -64,3 +64,11 @@ Las decisiones tomadas incluyeron:
 2. Abre el archivo notebook.ipynb en Google Colab y carga el dataset
 
 3. Ejecuta las celdas para reproducir los resultados.
+
+---
+
+## 📊 Visualización interactiva en Tableau
+
+¡Explora este proyecto de visualización de datos en Tableau Public! 🚀
+
+Haz clic aquí para verlo en acción 👉 [**Abrir Dashboard en Tableau**](https://public.tableau.com/views/AbandonoEscolar/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
